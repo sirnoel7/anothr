@@ -1,0 +1,34 @@
+h1{
+ text-align: calc(left);
+ font-family: cursive;
+ color: darkslategray;
+
+}
+p{ color: darkslategray;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.abt{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.more{
+    text-align: center;
+    font-family: cursive;
+}
+.skills{
+   text-align: center;
+   color: darkslategray;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.added{
+    font-family: cursive;
+    color: darkslategray;
+}
+h4{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: darkslategrey;
+}
+body{
+   background-color:khaki
+
+}

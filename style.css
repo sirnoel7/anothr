@@ -1,3 +1,18 @@
+*{
+   width: 80%;
+   margin: left 100px; ;
+   margin-right: 50px;
+   position: relative;
+   align-items: center;
+}
+
+body {
+   background-color:khaki;
+   align-content:center;
+   padding-left: 350px;
+   padding-right: 0px;
+}
+
 h1{
  text-align: calc(left);
  font-family: cursive;
@@ -28,7 +43,77 @@ h4{
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 color: darkslategrey;
 }
-body{
-   background-color:khaki
+
+.drop{
+ text-align: center;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color:darkslategray;
+}
+.box {
+   width: 100px; 
+   height: 100px; 
+   background-color: #f0f0f0; 
+   border: 2px solid #000; 
+   padding: 10px; 
+   margin: 10px; 
+   float: left; 
+ }
+ 
+ #box1 {
+   background-color: #ff9999; 
+ }
+ 
+ #box2 {
+   background-color: #99ff99; 
+ }
+ 
+ #box3 {
+   background-color: #9999ff;
+ }
+ 
+ #box4 {
+   background-color: #ffff99; 
+ }
+ 
+ #box5 {
+   background-color: #ff99ff; 
+ }
+ 
+ #box6 {
+   background-color: #99ffff; 
+ }
+ 
+ .class{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+.docs{
+     font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: darkslategrey;
+padding-top: 100px;
 
 }
+
+.lock{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.new{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: darkslategrey;
+}
+
+.boxx{
+    width: 400px; 
+    height: 100px; 
+    background-color: #f0f0f0; 
+    border: 2px solid #000; 
+    padding: 10px; 
+    margin: 10px; 
+    float:inline-start
+  }
+  .msg{
+      text-align: center;
+
+  }
